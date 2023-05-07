@@ -4,7 +4,7 @@ We welcome contributions to this project and thank you for taking the time to im
 
 ## Getting Started
 
-Before you start contributing, please review [Code of Conduct](CODE_OF_CONDUCT.md) to understand the community standards and expectations. By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](LICENSE) file.
+Before you start contributing, please review [Code of Conduct](CODE_OF_CONDUCT.md) to understand the community standards and expectations. By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](/LICENSE) file.
 
 ### Reporting Bugs
 
